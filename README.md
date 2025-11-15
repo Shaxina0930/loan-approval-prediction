@@ -1,4 +1,3 @@
-# loan-approval-prediction
 # Loan Approval Prediction
 Predict if a loan applicant will be approved based on demographic and financial features (Kaggle-inspired dataset).
 
